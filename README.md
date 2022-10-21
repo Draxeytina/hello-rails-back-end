@@ -1,4 +1,4 @@
-# Hello React Front-end
+# Hello Rails Back-end
 
 ## Description
 A hello app created using rails + react to generate random greeting messages from database.
