@@ -33,6 +33,9 @@ gem 'rack-cors'
 # Rubocop linters
 gem 'rubocop', '>= 1.0', '< 2.0'
 
+# Windows compatibility
+gem 'ffi'
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
